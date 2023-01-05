@@ -1,0 +1,34 @@
+.box1{
+    background-color: #000000;
+    color: azure;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.box2{
+    background: url('https://www.guidingtech.com/wp-content/uploads/HD-Mouth-Watering-Food-Wallpapers-for-Desktop-12_4d470f76dc99e18ad75087b1b8410ea9.jpg');
+    background-size: cover;
+    background-blend-mode:difference;
+    height: 500px;
+    width: 1000px;
+}
+.box2 h1{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: overline;
+    font-family: cursive ;
+    font-size: 50px;
+}
+h2{
+    background-color:grey ;
+    text-align: center;
+    color: beige;
+    font-size: 40px;
+    font-family: cursive;
+}
+p{
+    font-family: Open Sans,sans-serif;
+    font-size: 30px;
+    text-align: center;
+    
+}

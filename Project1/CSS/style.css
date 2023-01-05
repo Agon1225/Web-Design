@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-header{
+    height: 40px;
+    background-color:#2d2f30;
+}
+.top-header h4{
+    position: relative; top: 13px; right: 40px;
+    color: #fff;
+    font-size: 12px;
+    text-align: right;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.main-header{
+    height: 70px;
+    background-color: #181818;
+}
+.main-header h2{
+    color: whitesmoke;
+    font-size: 45px;
+    position: relative; left: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+.main-header h4{
+    color: grey;
+    font-size: 10px;
+    position: relative; left: 37px; bottom: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+.main-header a{
+    text-decoration: none;
+    position: relative; bottom: 50px; left: 500px;
+    text-align: right; 
+    left: 562px;
+    padding: 30px;
+    color: #fff;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.main-header a:hover{
+    background-color:#2d2f30 ;
+    transition-duration: 0.5s;
+    color: #b3d146;
+    border-radius: 0;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contact a{
+    background-color: #b3d146 ;
+    transition-duration: 0.5s;
+    color:#fff;
+    border-radius: 0;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    left: 1208px;
+    bottom: 68px;
+}
+.contact a:hover{
+    color: #fff;
+}
+.main-body img{
+    height: 680px;
+    width: 1349px;
+}
+.main-body h1{
+    text-align: right;
+    position: relative;
+    right: 90px;
+    bottom: 540px;
+    font-size: 106px;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: bold;
+}
+.body1{
+    background-color: #181818 ;
+    position: relative; top: -362px;
+    height: 700px;
+}
+.body1 h1{
+    color: #fff;
+    font-family: sans-serif;
+}
+.body1 h2{
+    color: #b3d146;
+    font-family: sans-serif;
+}
+.body1 h3{
+    color: #fff;
+    font-family: sans-serif;
+}
+.body1 p{
+    color: #fff;
+    font-family: sans-serif;
+}
+
+
+
+
+
+

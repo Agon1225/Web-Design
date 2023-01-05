@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+.action a{
+    display: inline-block;
+    background: aqua;
+    text-decoration: none;
+    color: antiquewhite;
+    border: black 5px solid;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 18px;
+}
+.action{
+    margin-top: 5px;
+    padding: 50px;
+}
+.action a:hover{
+    background-color: blue;
+    transition: all linear 0.3s;
+    border-color: red;
+    border-radius: 0;
+    font-size: 22px;
+    box-shadow: 10px 10px 10px 20px rgb(136, 98, 98);
+}
